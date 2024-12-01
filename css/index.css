@@ -182,7 +182,7 @@ img {
 }
 
 .content-item {
-    width: calc((100% - 72px) / 4);
+    width: 272px;
 }
 
 .content-header {
